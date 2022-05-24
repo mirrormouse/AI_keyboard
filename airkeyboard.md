@@ -1,20 +1,20 @@
-# ç©ºä¸­ã®æŒ‡ã®å‹•ãã§æ“ä½œã™ã‚‹ã‚¨ã‚¢ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰
+# ‹ó’†‚Ìw‚Ì“®‚«‚Å‘€ì‚·‚éƒGƒAƒL[ƒ{[ƒh
 
-## å®Ÿç¾ã¾ã§ã®æµã‚Œ
-1. ç”»åƒã®å­¦ç¿’ãƒ‡ãƒ¼ã‚¿åé›†
-2. ã‚¢ãƒãƒ†ãƒ¼ã‚·ãƒ§ãƒ³
-3. Yolov5ã§å­¦ç¿’(Google Colaboratoryã‚’åˆ©ç”¨)
-4. ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’ç”»é¢ä¸Šã«ã‚³ãƒ¼ãƒ‡ã‚£ãƒ³ã‚°ï¼ˆä¸‹è¨˜å‚ç…§ï¼‰
-5. webã‚«ãƒ¡ãƒ©ã‚’æ¥ç¶šã—ã¦ä½¿ç”¨
+## ÀŒ»‚Ü‚Å‚Ì—¬‚ê
+1. ‰æ‘œ‚ÌŠwKƒf[ƒ^ûW
+2. ƒAƒmƒe[ƒVƒ‡ƒ“
+3. Yolov5‚ÅŠwK(Google Colaboratory‚ğ—˜—p)
+4. ƒL[ƒ{[ƒh‚ğ‰æ–Êã‚ÉƒR[ƒfƒBƒ“ƒOi‰º‹LQÆj
+5. webƒJƒƒ‰‚ğÚ‘±‚µ‚Äg—p
 
-å®Ÿéš›ã®ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã¨ã®é€£æºã«ã¯pyautoguiã‚’ç”¨ã„ãŸã€‚
+ÀÛ‚ÌƒL[ƒ{[ƒh‚Æ‚Ì˜AŒg‚É‚Ípyautogui‚ğ—p‚¢‚½B
 
-å®Ÿéš›ã«ä½œæˆã—ãŸå­¦ç¿’ãƒ¢ãƒ‡ãƒ«ã¯[ã“ã“](./model/best.pt)
-å‹•ã‹ã—ã¦ã¿ãŸç”»é¢ã‚­ãƒ£ãƒ—ãƒãƒ£æ˜ åƒã¯[ã“ã“](./resource/airkeyboard.mp4)
-ãƒ¢ãƒ‡ãƒ«ã«ã¤ã„ã¦ã¯è‡ªåˆ†ã®è…•ã—ã‹å­¦ç¿’ã•ã›ã¦ã„ãªã„ã®ã§ä»–ã®äººã ã¨ç²¾åº¦ãŒè½ã¡ã‚‹ã‹ã‚‚ï¼Ÿ
+ÀÛ‚Éì¬‚µ‚½ŠwKƒ‚ƒfƒ‹(.ptŒ`®)‚Í[‚±‚±](./model/best.pt)
+“®‚©‚µ‚Ä‚İ‚½‰æ–ÊƒLƒƒƒvƒ`ƒƒ‰f‘œ‚Í[‚±‚±](./resource/airkeyboard.mp4)
+ƒ‚ƒfƒ‹‚É‚Â‚¢‚Ä‚Í©•ª‚Ì˜r‚µ‚©ŠwK‚³‚¹‚Ä‚¢‚È‚¢‚Ì‚Å‘¼‚Ìl‚¾‚Æ¸“x‚ª—‚¿‚é‚©‚àH
 
-##ã€€æ“ä½œæ–¹æ³•
-äººå·®ã—æŒ‡ã¨ä¸­æŒ‡ã§æŠ¼ã—ãŸã„ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’ã¯ã•ã‚€ã¨ã€ãã®éƒ¨åˆ†ãŒç”»åƒèªè­˜ã«ã‚ˆã‚Šæ¤œå‡ºã•ã‚Œã¦ãƒˆãƒªã‚¬ãƒ¼ã¨ãªã‚Šã€å®Ÿéš›ã«ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’æŠ¼ã—ãŸã®ã¨åŒã˜å‹•ä½œã«ãªã‚‹ã€‚
+##@‘€ì•û–@
+l·‚µw‚Æ’†w‚Å‰Ÿ‚µ‚½‚¢ƒL[ƒ{[ƒh‚ğ‚Í‚³‚Ş‚ÆA‚»‚Ì•”•ª‚ª‰æ‘œ”F¯‚É‚æ‚èŒŸo‚³‚ê‚ÄƒgƒŠƒK[‚Æ‚È‚èAÀÛ‚ÉƒL[ƒ{[ƒh‚ğ‰Ÿ‚µ‚½‚Ì‚Æ“¯‚¶“®ì‚É‚È‚éB
 
 ```python
 import cv2
@@ -23,10 +23,10 @@ import math
 import pyautogui
 modelpath='./weights/best_ten2.pt'
 model = torch.hub.load('../yolov5', 'custom', path=modelpath, source='local')
-# VideoCapture ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚’å–å¾—
+# VideoCapture ƒIƒuƒWƒFƒNƒg‚ğæ“¾
 capture = cv2.VideoCapture(0)
 
-# ä¾¿åˆ©ãªã‚¯ãƒ©ã‚¹ã¨é–¢æ•°
+# •Ö—˜‚ÈƒNƒ‰ƒX‚ÆŠÖ”
 class rect:
   def __init__(self,l,t,r,b,c,n,n2=""):
       self.l=l
@@ -67,7 +67,7 @@ def drawtext(img,text,p,color,font=1,thickness=2):
 def drawrect(img,R,color,thickness):
   return cv2.rectangle(img, (R.l, R.t), (R.r, R.b), color, thickness=thickness)
 
-# ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ä½œæˆ
+# ƒL[ƒ{[ƒhì¬
 keyboard=[
     ["1","2","3","4","5","6","7","8","9","0","-","^","backspace"],
     ["q","w","e","r","t","y","u","i","o","p","@","["],
@@ -86,11 +86,11 @@ zerorect=rect(0,0,0,0,0,"zero")
 def makeROIrect(p,s,c,c2):
     return rect(p.x,p.y,p.x+s.x,p.y+s.y,0,c,c2)
 
-#ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’ç”»é¢ä¸Šã«é…ç½®ã™ã‚‹ãŸã‚ã«å¿…è¦ãªä½ç½®æŒ‡å®š
+#ƒL[ƒ{[ƒh‚ğ‰æ–Êã‚É”z’u‚·‚é‚½‚ß‚É•K—v‚ÈˆÊ’uw’è
 size=point(45,45)
 uple=point(10,10)
 step=point(12,30)
-#ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ã‚’ç”»é¢ä¸Šã«ä½œæˆ
+#ƒL[ƒ{[ƒh‚ğ‰æ–Êã‚Éì¬
 def createROI():
     ALLROI=[]
 
@@ -110,7 +110,7 @@ shiftROI=rect(uple.x+3*step.x+0*size.x,uple.y+4*size.y,uple.x+3*step.x+3*size.x,
 
 
 
-#YOLOã§æ¤œå‡ºã€‚OpenCVã¨Yoloã§RGBã®é †åºãŒé•ã†ã®ã§æ³¨æ„ã€‚
+#YOLO‚ÅŒŸoBOpenCV‚ÆYolo‚ÅRGB‚Ì‡˜‚ªˆá‚¤‚Ì‚Å’ˆÓB
 def YoloDetection(img):
   img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
   result=model(img_rgb)
@@ -122,7 +122,7 @@ def YoloDetection(img):
     Rects.append(R)
   return Rects
 
-#ã‚·ãƒ•ãƒˆã‚­ãƒ¼ã®å®Ÿè£…
+#ƒVƒtƒgƒL[‚ÌÀ‘•
 def drawshift(res,shiftstate,roi,arect):
     textpoint=point(roi.center().x-size.x//2,roi.center().y+size.y//3)
     res=drawtext(res,roi.n,textpoint,(0,0,0),0.5,1)
@@ -138,7 +138,7 @@ def drawshift(res,shiftstate,roi,arect):
         res = cv2.addWeighted(rc, 0.2, res, 0.8, 0)
     return res
 
-#GUIå…¨ä½“ã®å®Ÿè£…
+#GUI‘S‘Ì‚ÌÀ‘•
 def makebaseGUI(img,arect,nowstate,shiftrect,shiftstate):
     res=img.copy()
     for roi in ROIs:
