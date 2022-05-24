@@ -16,6 +16,9 @@
 ##　操作方法
 人差し指と中指で押したいキーボードをはさむと、その部分が画像認識により検出されてトリガーとなり、実際にキーボードを押したのと同じ動作になる。
 
+## 感想
+腕が疲れる。カメラのみで他に一切の器具なしに入力操作ができるのは良いが、非常に操作性が悪い。
+
 ```python
 import cv2
 import torch
@@ -51,7 +54,7 @@ class point:
 
 def Length(p1,p2):
   d2=(p1.x-p2.x)**2+(p1.y-p2.y)**2
-  return math.s
+  return math.sqrt(d2)
 
 def drawtext(img,text,p,color,font=1,thickness=2):
   return cv2.putText(img,
