@@ -63,7 +63,6 @@ shiftkeyboard=[
 ]
 zerorect=rect(0,0,0,0,0,"zero")
 
-
 def makeROIrect(p,s,c,c2):
     return rect(p.x,p.y,p.x+s.x,p.y+s.y,0,c,c2)
 
